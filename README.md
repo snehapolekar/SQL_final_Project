@@ -199,6 +199,10 @@ my practical SQL skills.
 -   📚 **Focus:** Database Management and SQL Queries
 -   ⭐ **Purpose:** Learning and Practical Implementation
 
+## Explanation video :
+
+https://drive.google.com/file/d/1IrcbMF11Qk0xBQ2QsBClDOesjd5PsooQ/view?usp=sharing
+
 
 ## Connect with me :
 
